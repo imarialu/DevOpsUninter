@@ -1,8 +1,8 @@
-# Segunda Aula Prática de DevOps e Integração Continua :globe_with_meridians:
+# Segunda Aula Prática de DevOps e Integração Continua :rocket:
 
-## Git e GitHub - Comandos básicos
+## Git e GitHub - Comandos básicos ⚙️
 
-### _Criando um novo repositório e adicionando alterações_
+### _Criando um novo repositório e adicionando alterações_ :computer:	
 
 - Crie um repositório remotamente
 
