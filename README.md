@@ -8,7 +8,9 @@
 
 2. Abra o cmd e crie uma nova pasta
 
+```
 > mkdir nome_da_pasta
+```
 
 3. Entre na pasta.
 
