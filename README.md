@@ -2,9 +2,13 @@
 
 ---
 
-## **Git e GitHub - Comandos**
+## **Git e GitHub - Comandos básicos**
 
 ---
+
+- Criando um novo repositório e adicionando alterações
+
+
 
 
 
