@@ -1,4 +1,4 @@
-# Segunda Aula Prática de DevOps e Integração Continua
+# Segunda Aula Prática de DevOps e Integração Continua :globe_with_meridians:
 
 ## Git e GitHub - Comandos básicos
 
