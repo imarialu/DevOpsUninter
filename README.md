@@ -1,4 +1,4 @@
-# Aula Prática de DevOps e Integração Continua :rocket:
+# Aula Prática de DevOps e Integração Contínua :rocket:
 
 ## Git e GitHub - Comandos básicos ⚙️
 
